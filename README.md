@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/md-jahidul-islam-riyad-a5571b189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md jahidul islam riyad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/riyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="riyad" height="30" width="40" /></a>
-<a href="https://kaggle.com/md.jahidul islam riyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="md.jahidul islam riyad" height="30" width="40" /></a>
+<a href="https://kaggle.com/mdjahidulislamriyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="md.jahidul islam riyad" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/riyad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="riyad_" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/riyadislam16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="riyadislam16" height="30" width="40" /></a>
 </p>
